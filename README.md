@@ -14,13 +14,9 @@ All content is kept inside **one single Python file** for quick reference.
 
 ## 📂 Project Structure
 
-python-cheat-sheet/
-│
-├── python1file.py
-└── README.md
-
----
-
+Python in 1 file/
+- python1file.py
+- README.md
 
 ---
 
